@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local ChatGPT/Codex data - NEVER COMMIT
+.codex/
+codex-dev.db
+codex-dev.db-wal
+codex-dev.db-shm
+ghostchat-backups/
+*.sqlite
+*.sqlite3
+
+# Archives / build artifacts
+dist/
+build/
+*.zip
