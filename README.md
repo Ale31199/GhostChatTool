@@ -1,3 +1,7 @@
+> **Looking for v3.0.1?** [Download the Windows package](https://github.com/Ale31199/GhostChatTool/releases/tag/v3.0.1) or open the [v3.0.1 source and guides](v3.0.1/README.md). English is the default, with Italian, Spanish, French and German guides. This is an experimental, browser-free local-log repair tool; quit and reopen the app yourself if its list stays stale. No qualifying deletion log event means no repair.
+>
+> **The documentation below and the root-level scripts describe the older v1.0.0 manual tool. Do not mix the two versions.**
+
 # GhostChatTool
 
 A small Windows command-line utility for removing **stale local ChatGPT Recents entries** ("Ghost chats") that remain visible in the ChatGPT Windows desktop app after the underlying conversation has already been deleted.
