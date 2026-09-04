@@ -1,0 +1,6 @@
+{
+  "ghostchat_patch.py": "f603c9d2f762fac4debc503cb0d7c0d8dca086e28146ecb3b029eaaab21ecba4",
+  "ghostchat_watch.py": "accd59799cb2068125e5bc634e175a7ebbda681b7d64479c8862a43463578900",
+  "ghostchat_nudge.py": "d7a797528a14181a46c5e61fe202424006ae190c88798a5e2fe413add6d07170",
+  "ghostchat_refetch_bridge.py": "ae33e00160e0486549c777a6448eeb467f41a480382204ce2aebd612a6e832c4"
+}
