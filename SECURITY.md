@@ -1,4 +1,3 @@
-```md
 # Security Policy
 
 ## Supported versions
