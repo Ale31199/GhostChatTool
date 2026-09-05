@@ -1,4 +1,3 @@
-```md
 # GhostChatTool v2.2.0 - Sync & Fix
 
 GhostChatTool v2.2.0 is the currently recommended release.
