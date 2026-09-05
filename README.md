@@ -1,5 +1,3 @@
-Sì, incolla **questo intero testo** dentro `README.md`, sostituendo tutto quello che c’è adesso:
-
 ```md
 > **Latest release: v2.2.0 - Sync & Fix**  
 > [Download GhostChatTool v2.2.0](https://github.com/Ale31199/GhostChatTool/releases/tag/v2.2.0)
